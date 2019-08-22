@@ -102,3 +102,15 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+.idea
+tmp
+.log
+/out
+/Debug/
+/target/
+.classpath
+.project
+.cproject
+.settings
